@@ -31,7 +31,7 @@ function checkZodiac() {
     img.src = imagePath;
   }
 
-  document.getElementById("result").innerText = `Zodiak Anda adalah: ${zodiac}`;
+  document.getElementById("result").innerText = `Khodam Hamba adalah: ${zodiac}`;
 }
 
 function refreshPage() {
